@@ -1,0 +1,23 @@
+{
+  "name": "layout-project",
+  "version": "1.0.0",
+  "description": "dz",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UncleGennady/dz_gulp_v-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UncleGennady/dz_gulp_v-1/issues"
+  },
+  "homepage": "https://github.com/UncleGennady/dz_gulp_v-1#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
